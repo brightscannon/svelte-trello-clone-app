@@ -19,7 +19,7 @@
         align-items: center;
         img.logo {
             width: 80px;
-            opacity: .5;
+            opacity: .2;
         }
     }
 </style>

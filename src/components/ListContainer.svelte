@@ -50,11 +50,11 @@
         overflow-y: hidden;
         white-space: nowrap;
         font-size: 0;
-        margin-left: 200px;
-        margin-top:50px;
+        // margin-left: 200px;
+        // margin-top:50px;
         perspective-origin: right;
         transition: .2s;
-        transform: perspective(2000px) rotateY(15deg);
+        transform: perspective(1500px) rotateY(10deg);
         .lists{
             display: inline-block;
             height: 100%;

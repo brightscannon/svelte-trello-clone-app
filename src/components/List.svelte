@@ -79,7 +79,7 @@
         transition: .2s;
 
         &:hover {
-            transform: perspective(2000px) rotateY(-15deg) scaleX(1.1);
+            transform: perspective(1500px) rotateY(-10deg) scaleX(1.05);
         }
 
         :global(&.sortable-ghost) {
